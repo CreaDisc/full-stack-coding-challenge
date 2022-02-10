@@ -1,18 +1,11 @@
 Challenge for Fullstack Developer
 ===============================
 
-To better assess a candidate's development skills, we would like to provide the following challenge. 
-
-This is intended to be developed within 1-2 hours
-
-Setup
+Running the Dev Environment
 -----
-* fork the repository
-* clone the forked repository
 
-
-Deliverables
-----------
-
-* Link to Github repo 
-* Instructions how to run the app
+1) Go to ```frontend/``` and install dependencies via ```npm install```
+2) Go to ```backend/``` and install dependencies via ```npm install```
+3) Start frontend by running ```npm run serve``` in ```frontend/```
+4) Start backend by running ```npm run dev``` in ```backend/```
+5) Go to ```http://localhost:8080``` and use the app ;)
